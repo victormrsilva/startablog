@@ -18,3 +18,9 @@ It's fucking great. **Start a fucking blog**.
 This is a fucking notice box. I bet I've got your attention now!
 
 > This is a quote from some fucking guy who said, START A FUCKING BLOG!
+
+```
+var add2 = function(number) {
+  return number + 2;
+}
+```
